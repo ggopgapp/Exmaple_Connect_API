@@ -10,7 +10,7 @@
 ## 📁 โครงสร้างโปรเจกต์
 
 Exmaple_Connect_API/
-├── tests/ # โฟลเดอร์สำหรับไฟล์ทดสอบ
+├── tests/ # โฟลเดอร์สำหรับไฟล์ทดสอบ/h
 ├── playwright.config.ts # ไฟล์กำหนดค่าของ Playwright
 ├── package.json # รายการ dependencies และ scripts
 ├── package-lock.json # ไฟล์ lock ของ npm
@@ -25,4 +25,5 @@ Exmaple_Connect_API/
 git clone https://github.com/ggopgapp/Exmaple_Connect_API.git
 cd Exmaple_Connect_API
 
+```bash
 npm install
